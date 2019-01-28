@@ -2,6 +2,14 @@
 
 //Complete this algo
 const isLoop = (linkedlist) => {
+// tail node if this.next is equal to another node before it (pointer)
+//then its looping
+// cant be first node
+
+//traverse link list and as we traverse search everything .next 
+//sees if .next exists  already then it's looping and we return true
+
+//
 
 };
 
